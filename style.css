@@ -1,0 +1,49 @@
+body {
+	font-family: 'Fugaz One', cursive;
+color: brown;
+background: url(https://coolbackgrounds.io/images/backgrounds/index/sea-edge-79ab30e2.png);
+background-size: cover;
+}
+li a{
+	font-size: 30px;
+	color: white;
+	list-style-position: outside;
+}
+li a:hover{
+	color: red;
+}
+ul {
+	list-style-type: upper-roman;
+}
+
+.berkan{
+	float: left;
+	margin-right: 15px;
+	border: 2px solid black;
+}
+.avantage{
+	float: right;
+	margin-right: 40px;
+	border: 2px solid black;
+}
+.dominos{
+	margin-left: 10px;
+	border: 2px solid white;
+}
+
+.avan{
+	margin-left: 100px;
+	border: 2px solid black;
+}
+.regenboog{
+	border: 2px solid black;
+	margin-left: 60px;
+}
+.berkan2{
+	float: right;
+	margin-right: 200px;
+}
+.lagewaard{
+	float: right;
+	border: solid black;
+}
